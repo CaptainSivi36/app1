@@ -1,2 +1,6 @@
-active: 1
+fruits:
+  - "Apple"
+  - "Mango"
+  - "Carat"
 
+vegatable: [Ladies Finger, Pomkin, Ginger, Garlic]
